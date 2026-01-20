@@ -1,0 +1,8 @@
+{
+  "name": "webwaka-suite-notification-hub",
+  "version": "0.1.0",
+  "description": "WebWaka notification-hub suite - runtime",
+  "scripts": {
+    "test": "echo 'No tests yet' && exit 0"
+  }
+}
